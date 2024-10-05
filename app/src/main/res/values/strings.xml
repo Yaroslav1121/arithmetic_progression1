@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="value1">Обчислити</string>
+    <string name="n">Кількість елементів (n)</string>
+    <string name="d">Різниця (d)</string>
+    <string name="a">Перший член (a)</string>
+    <string name="sum">Сума:</string>
+</resources>
